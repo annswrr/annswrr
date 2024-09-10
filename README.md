@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 <a href="[linked-url](https://github.com/annswrr)">
   
 <h1 align="center">hi, i'm <a href="[https://github.com/annswrr]/" target="_blank">annswrr</a> 
