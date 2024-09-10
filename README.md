@@ -1,7 +1,10 @@
 ## Hi there 👋
+<a href="[linked-url](https://github.com/annswrr)">
+  
+<h1 align="center">hi, i'm <a href="[https://github.com/annswrr]/" target="_blank">annswrr</a> 
+<img src="https://raw.githubusercontent.com/vitaliysapuglicev/vitalysapuglicev/main/giphy.webp" height="32"/></h1>
+<h3 align="center">student IT </h3>
 
-<!--
-**annswrr/annswrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
